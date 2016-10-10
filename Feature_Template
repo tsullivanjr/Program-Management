@@ -1,0 +1,12 @@
+###Link to Google Group discussion: 
+(https://groups.google.com/forum/#!topic/rackhd/xxxxxxxxxxx)
+###Consumer Need: 
+(As a (user type), I want to (task) so that (goal))
+###Background: 
+(History of the request)
+###Goals: 
+(High level description of what the feature will accomplish)
+###Acceptance Criteria: 
+(Defines when a story is completed and working as intended). Gets refined during dicussion phase.
+###Proposed Implementation:  
+(Describes a high level overview that describes HOW the goals of the functional spec will be met. Identify impacted APIs (If applicable).  Gets refined during dicussion phase.)
